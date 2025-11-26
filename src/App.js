@@ -436,14 +436,14 @@ function App() {
             </p>
             <div className="footer-links">
               <a
-                href="https://github.com"
+                href="https://github.com/praveen5102"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 GitHub
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://linkedin.com/in/gonepraveen"
                 target="_blank"
                 rel="noopener noreferrer"
               >
