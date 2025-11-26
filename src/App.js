@@ -197,7 +197,7 @@ function App() {
 
           <div className="hero-buttons">
             <a
-              href="www.github.com/praveen5102"
+              href="https://www.github.com/praveen5102"
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn-primary"
