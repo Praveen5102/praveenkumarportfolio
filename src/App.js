@@ -24,6 +24,27 @@ function App() {
 
   const projects = [
     {
+      title: "News & Weather App",
+      type: "Mobile App (React Native)",
+      description:
+        "Real-time news aggregator with location-based weather integration. Features dynamic search, location detection, and pull-to-refresh functionality.",
+      features: [
+        "Real-time News Feed",
+        "Location-based Weather",
+        "Search Functionality",
+        "Pull-to-Refresh",
+        "Regional News",
+      ],
+      tech: [
+        "React Native",
+        "TypeScript",
+        "Expo",
+        "GNews API",
+        "OpenWeatherMap",
+      ],
+      link: "https://github.com/praveen5102/NewsWeatherApp",
+    },
+    {
       title: "BeMyOwnCoach",
       type: "Mobile App (React Native)",
       description:
@@ -197,7 +218,7 @@ function App() {
 
           <div className="hero-buttons">
             <a
-              href="www.github.com/praveen5102"
+              href="https://github.com/praveen5102"
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn-primary"
@@ -436,14 +457,14 @@ function App() {
             </p>
             <div className="footer-links">
               <a
-                href="https://github.com"
+                href="https://github.com/praveen5102"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 GitHub
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://linkedin.com/in/gonepraveen"
                 target="_blank"
                 rel="noopener noreferrer"
               >
